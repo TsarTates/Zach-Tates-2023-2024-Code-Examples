@@ -11,7 +11,7 @@ class  Matrix
         int row,col;
         //Vector representation of matrix
         std::vector<std::vector<T>> data;
-    // Please finish the Matrix template
+    
     public:
        
         //Matrix Constructors
