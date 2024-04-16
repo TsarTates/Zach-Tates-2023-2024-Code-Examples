@@ -1,6 +1,6 @@
 #include <vector>
 #include <iostream>
-// You may add other header files if needed
+
 using namespace std;
 
 template <typename T>
